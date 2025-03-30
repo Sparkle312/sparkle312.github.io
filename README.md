@@ -1,0 +1,2 @@
+# spo.kstu.kg
+KSTU
